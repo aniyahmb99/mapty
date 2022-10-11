@@ -3,7 +3,7 @@
 ## Screenshots
 
 Home Page
-![image](https://user-images.githubusercontent.com/96402809/195165297-108bbaef-e358-468c-b53c-ef2f0bde5f07.png)
+![image](https://user-images.githubusercontent.com/96402809/195167366-b491b10c-5773-4569-bba7-b50251f1cc13.png)
 
 
 ## DESCRIPTION
